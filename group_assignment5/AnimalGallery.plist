@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Rat</key>
+		<array>
+			<string>Resourceful</string>
+			<string>PATH</string>
+		</array>
+		<key>Ox</key>
+		<array>
+			<string>Diligent</string>
+			<string>PATH</string>
+		</array>
+		<key>Tiger</key>
+		<array>
+			<string>Brave</string>
+			<string>PATH</string>
+		</array>
+		<key>Rabbit</key>
+		<array>
+			<string>Elegant</string>
+			<string>PATH</string>
+		</array>
+		<key>Komodo Dragon</key>
+		<array>
+			<string>Intelligent</string>
+			<string>PATH</string>
+		</array>
+		<key>Snake</key>
+		<array>
+			<string>Enigmatic</string>
+			<string>PATH</string>
+		</array>
+		<key>Horse</key>
+		<array>
+			<string>Animated</string>
+			<string>PATH</string>
+		</array>
+		<key>Goat</key>
+		<array>
+			<string>Calm</string>
+			<string>PATH</string>
+		</array>
+		<key>Monkey</key>
+		<array>
+			<string>Sharp</string>
+			<string>PATH</string>
+		</array>
+		<key>Rooster</key>
+		<array>
+			<string>Observant</string>
+			<string>PATH</string>
+		</array>
+		<key>Dog</key>
+		<array>
+			<string>Honest</string>
+			<string>PATH</string>
+		</array>
+		<key>Pig</key>
+		<array>
+			<string>Compassionate</string>
+			<string>PATH</string>
+		</array>
+	</dict>
+</array>
+</plist>
